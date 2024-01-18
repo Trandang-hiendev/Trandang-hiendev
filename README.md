@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tên : Trần Đăng Hiển <br>Tuổi : 16<br>Năm sinh : 07/12/200x<br>Quê quán : Nha Trang<br>Công việc : Full Stack Developer<br>
+Tên : Trần Đăng Hiển <br>Năm sinh : 07/12/200x<br>Quê quán : Nha Trang<br>Công việc : Full Stack Developer<br>
 
 
 ## 🌐 Socials:
